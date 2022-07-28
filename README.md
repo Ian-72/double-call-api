@@ -3,8 +3,8 @@ Double-Call API is an API that is used to get a specific movie poster. API resou
 
 Some of features include:
 - get movie poster url
-- add movie title to movie favorite data
-- get movie favorite data
+- add movie title to favorite movie data
+- get favorite movie poster data
 
 This project uses :
 - express

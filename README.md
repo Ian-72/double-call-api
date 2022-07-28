@@ -110,7 +110,7 @@ This project uses :
 
 
 *Note:*
-- non-documented endpoints will return a 404 response
+- non-documented endpoints will response 404 if not attach access token
 - request response using content type application/json
 - using Authorization: Bearer
 - Any request to endpoint should be authenticated using bearer token, otherwise return 403

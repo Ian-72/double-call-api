@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "password": "password123"
+    },
+    {
+      "username": "doe",
+      "password": "145459fjcd"
+    },
+    {
+      "username": "anna",
+      "password": "abcdefg12345"
+    },
+    {
+      "username": "bell",
+      "password": "safepasswd849"
+    },
+    {
+      "username": "tudor",
+      "password": "localhost9$#$*"
+    },
+    {
+      "username": "uzair4",
+      "password": "thisIsMyPassWord"
+    },
+    {
+      "username": "don",
+      "password": "uhuy"
+    },
+    {
+      "username": "elspeth",
+      "password": "mcodmsaco99"
+    },
+    {
+      "username": "aamir",
+      "password": "889898400"
+    },
+    {
+      "username": "maia34",
+      "password": "realPass7"
+    },
+    {
+      "username": "hodgson",
+      "password": "&CDC*N8cdn9"
+    },
+    {
+      "username": "joely",
+      "password": "cjdisac989jsca&$*"
+    },
+    {
+      "username": "vernon",
+      "password": "123456789"
+    },
+    {
+      "username": "jakob0",
+      "password": "changeMyPass"
+    }
+  ]
+}

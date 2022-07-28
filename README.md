@@ -38,9 +38,9 @@ This project uses :
   $ git clone https://github.com/Ian-72/double-call-api.git
   ```
 
-2. Use pnpm package manager to make your storage more efficient
+2. Install pnpm package manager to make your storage more efficient
   ```
-  $ npm 
+  $ npm install pnpm -g
   ```
 
 3. Install the required modules

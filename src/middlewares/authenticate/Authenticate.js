@@ -15,7 +15,7 @@ const authenticateJWT = (req, res, next) => {
       next();
     });
   } else {
-    next(createHttpError(401));
+    next(createHttpError(403));
   }
 };
 

@@ -2,9 +2,9 @@
 Double-Call API is an API that is used to get a specific movie poster. API resources are obtained from OMDB third party services.
 
 Some of features include:
-- get movie poster url
-- add movie title to favorite movie data
-- get favorite movie poster data
+- get url of movie poster
+- add movie title to favorite movie
+- get url of favorite movie poster 
 
 This project uses :
 - express

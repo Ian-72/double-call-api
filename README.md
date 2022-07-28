@@ -36,6 +36,7 @@ This project uses :
 1. Clone this repo
   ```
   $ git clone https://github.com/Ian-72/double-call-api.git
+  $ cd double-call-api
   ```
 
 2. Install pnpm package manager to make your storage more efficient
